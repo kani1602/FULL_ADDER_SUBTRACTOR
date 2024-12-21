@@ -58,6 +58,9 @@ Borrow out = A'Bin + A'B + BBin
 
 5.For different input combinations generate the timing diagram.
 
+
+
+
 # **Program:**
 ![Screenshot (26)](https://github.com/user-attachments/assets/bff4f866-d090-491e-8a7c-38fe7ed22844)
 ![Screenshot (27)](https://github.com/user-attachments/assets/58aadb71-f359-41c1-950f-257b2676f29a)
